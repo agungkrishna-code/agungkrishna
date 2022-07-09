@@ -1,10 +1,10 @@
-### Hi there 👋, my name is AgungKrishna
+### AgungKrishna
 
 #### I am just a normal person
 
 still learning
 
-Skills: / REACT / JS / HTML / CSS/JAVASCRIPT/SOLIDITY/PYTHON/C++/PINESCRIPT/
+Skills: / REACT / JS / HTML / CSS/JAVASCRIPT/SOLIDITY/PYTHON/C++/PINESCRIPT/SQL/
 
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning web development
