@@ -47,11 +47,11 @@ still learning
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=agungkrishna-code&show_icons=true&count_private=true)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=agungkrishna-code)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungkrishna-code)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/agungkrishna-code)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=agungkrishna-code)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=agungkrishna-code)](https://github.com/ryo-ma/github-profile-trophy)
 
