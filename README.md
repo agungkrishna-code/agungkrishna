@@ -22,8 +22,7 @@ still learning
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=agungkrishna-code)
 
-|<a href="https://github.com/agungkrishna-code/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agungkrishna-code&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Agung's github stats" />
-</a> | <a href="https://github.com/agungkrishna-code/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkrishna-code&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<a href="https://github.com/agungkrishna-code/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agungkrishna-code&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Agung's github stats" /></a> | <a href="https://github.com/agungkrishna-code/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkrishna-code&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungkrishna-code)](ahttps://github.com/agungkrishna-code/github-readme-stats)
