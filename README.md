@@ -28,8 +28,4 @@ still learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungkrishna-code)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/agungkrishna-code)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=agungkrishna-code)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Profile views](https://gpvc.arturio.dev/agungkrishna-code)  
