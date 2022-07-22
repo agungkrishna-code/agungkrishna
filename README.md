@@ -26,6 +26,4 @@ still learning
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=agungkrishna-code)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungkrishna-code)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Profile views](https://gpvc.arturio.dev/agungkrishna-code)  
