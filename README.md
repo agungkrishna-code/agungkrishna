@@ -4,8 +4,6 @@
 
 still learning
 
-### Skills (not all focused)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=agungkrishna-code)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=agungkrishna-code&show_icons=true&count_private=true)  
