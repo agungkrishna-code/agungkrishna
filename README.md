@@ -2,9 +2,7 @@
 
 #### Holaa 👋
 
-still learning
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=agungkrishna-code)
+still learning 🧑‍💻
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=agungkrishna-code&show_icons=true&count_private=true)  
 
